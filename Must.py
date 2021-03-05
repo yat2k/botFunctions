@@ -3,7 +3,7 @@ import discord
 from discord.ext import commands
 
 Token= Some_random_token_given_to_your_bot #DO NOT SHARE it
-client = commands.Bot(command_prefix='y.') #here ive chosen .y to be my bot command, most common ones are !,$ but theyre used alot to go for something unique
+client = commands.Bot(command_prefix='y.') #here ive chosen "y." to be my bot command, most common ones are !,$ but theyre used alot to go for something unique
 
 @client.event
 async def on_ready():
