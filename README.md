@@ -1,6 +1,6 @@
 # botFunctions
 
-A repo for general bot functions separately stored 
+A repo for general bot functions separately stored . Star it /fork it and contribute to it if you want to add features :) :D 
 
 <h3>Features</h3>
   Slaps random user/pinged person ,shows user/pinged person's avatar,a message when new members join<br>
