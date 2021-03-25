@@ -12,4 +12,4 @@ async def on_ready():
     print('------')
     await client.change_presence(activity=discord.Game(name="")) #this shows the activity of the discord bot
     
-client.run("Token")  #now! never share your bot token!
+client.run(Token)  #now! never share your bot token!
