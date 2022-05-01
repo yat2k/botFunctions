@@ -1,3 +1,4 @@
+#deletes messages including the message containing this command
 @bot.command(pass_context=True)
 @commands.has_permissions(administrator=True)
 async def purge(ctx, limit: int):
